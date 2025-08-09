@@ -4,3 +4,4 @@ in this place, i store some library that i think it will help everyone in workin
 - [loguru]([url](https://github.com/Delgan/loguru)): simple but flexible logging
 - [wandb]([url](https://github.com/wandb/wandb)): tracking experiments
 - [tqdm]([url](https://github.com/tqdm/tqdm)): loading bar
+- [t-sne cuda](https://github.com/CannyLab/tsne-cuda): accelerate t-sne algorithm with cuda (instead of sckit-learn tsne)
